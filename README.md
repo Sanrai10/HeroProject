@@ -1,2 +1,2 @@
 # HeroProject
-Add and Delete of GameObject
+Add and Delete of GameObject.
